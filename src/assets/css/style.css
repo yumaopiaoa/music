@@ -1,0 +1,24 @@
+body {
+	background: #222;
+}
+
+.a {
+	text-decoration: none;
+}
+
+.music-list {
+	position: fixed;
+	z-index: 100;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background: #222;
+}
+
+@font-face {
+	font-family: 'iconfont';
+	/* project id 1046817 */
+	src: url('//at.alicdn.com/t/font_1046817_3ho6ymrvqwa.eot');
+	src: url('//at.alicdn.com/t/font_1046817_3ho6ymrvqwa.eot?#iefix') format('embedded-opentype'), url('//at.alicdn.com/t/font_1046817_3ho6ymrvqwa.woff2') format('woff2'), url('//at.alicdn.com/t/font_1046817_3ho6ymrvqwa.woff') format('woff'), url('//at.alicdn.com/t/font_1046817_3ho6ymrvqwa.ttf') format('truetype'), url('//at.alicdn.com/t/font_1046817_3ho6ymrvqwa.svg#iconfont') format('svg');
+}
